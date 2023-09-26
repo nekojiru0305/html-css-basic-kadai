@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* ページ全体のスタイル
+------------------------------------------ */
+
+
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+  }
+  
+
+  h1 {
+    font-size: 40px;
+    color:black;
+    text-align: center;
+    font-family:"Josefin Sans";
+    text-shadow: 0.6px 0.2px 4px gray;
+    border-bottom:solid 3px rgb(115, 115, 114);
+    letter-spacing: 1.5em;
+}
+
+
+.text-Skyblue {
+    color:Skyblue;
+    font-size: 40px;
+  }
+ 
+
+  .text-PINK {
+    color:rgb(255, 192, 203);
+    font-size: 40px;
+  }
+
+
+.PINK{
+    color:rgb(255, 192, 203);  
+    font-size:20px;
+}
+
+.Skyblue{
+    color:Skyblue;
+    font-size:20px; 
+}
+
+
+ #basic p{
+    color:black;
+    font-weight: bold;
+    font-size:20px;
+  }
+
